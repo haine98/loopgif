@@ -56,14 +56,6 @@ function draw() {
  
 //===================================================
 function renderMyDesign (percent) {
-  //
-  // THIS IS WHERE YOUR ART GOES. 
-  // This is an example of a function that renders a temporally looping design. 
-  // It takes a "percent", between 0 and 1, indicating where we are in the loop. 
-  // Use, modify, or delete whatever you prefer from this example. 
-  // This example uses several different graphical techniques. 
-  // Remember to SKETCH FIRST!
- 
   //----------------------
   // here, I set the background and some other graphical properties
   background(255);
